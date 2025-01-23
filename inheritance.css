@@ -1,0 +1,10 @@
+div{
+    background-color: yellow;
+}
+input{
+    background-color: red;
+}
+button{
+    background-color: inherit;
+    color: rgb(1, 1, 12);
+}
